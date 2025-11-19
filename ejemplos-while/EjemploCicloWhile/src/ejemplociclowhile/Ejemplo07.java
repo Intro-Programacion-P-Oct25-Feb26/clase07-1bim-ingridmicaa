@@ -50,3 +50,8 @@ public class Ejemplo07 {
 
     }
 }
+/*
+El While es igual a bandera que 
+bandera==true, se incrementa el contador  en las notas y
+el ciclo se repite
+*/
