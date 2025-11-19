@@ -34,3 +34,8 @@ public class Ejemplo02 {
         
     }
 }
+/* 
+Se puede escribir el límite por teclado pero al pasar un valor con 2 o
+primo al número 2 solo se imprimen los númeors impares
+automáticamente y sigue en contador 
+*/
